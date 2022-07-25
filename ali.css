@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(157, 157, 157);
+}
+.a10{
+    width: 150px;
+    height:150px;
+    border-radius: 50%;
+}
+.ali1{
+text-align: right;
+background-color: aqua;
+color: aliceblue;
+border: 2px white solid;
+border-radius: 8px;
+width: 40px;
+display: flex;
+text-decoration: none;
+float: right;
+margin-left: 10px;
+}
+.ali2{
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 50px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+
+    }
+   body{
+    background-color: #fff;
+   }
+   .m6{
+    background-color: black;
+    height: 65px;
+    display: flex;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    border: #ffffff solid 3px;
+    width: 100%;
+    position: absolute;
+    color: #fff;
+}
+
+
+footer{
+    background-color: #000;
+    color: #ccc;
+    position: absolute;
+    width: 100%;
+    bottom: -150px;
+    text-align: center;
+    font-size: x-large;
+    margin-top: 300px;
+ }
+header{
+    margin-top: 120px;
+}
+.hr:hover{
+    background-color: brown;
+    
+    }
+    
+    
